@@ -8,7 +8,7 @@ function getShippingCost(country) {
     case 'Chile':
       price = 250;
       break;
-    case 'Australia':
+    case 'England':
       price = 170;
       break;
     case 'Jamaica':
